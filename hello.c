@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* メイン関数 */
 int main(int argc, char *argv[])
 {
 	/* ハローワールド表示 */
